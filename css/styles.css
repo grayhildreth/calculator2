@@ -1,0 +1,12 @@
+.form-group {
+  width: 40%;
+  color: blue;
+}
+
+.form-control {
+  background-color: lightgrey;
+}
+
+.group {
+  float: left;
+}
